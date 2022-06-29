@@ -1,3 +1,6 @@
+//To Do
+//Add score cap 5, winner/loser message
+
 import Ball from "./Ball.js";
 import Paddle from "./Paddle.js";
 
